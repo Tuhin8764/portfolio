@@ -41,7 +41,6 @@ def main():
     st.write(", ".join(skills))
 
     st.header("🚀 Projects")
-    st.image("Tuhin Santra.JPG", width=700)
     st.write("**🌍 Global Happiness Analysis**")
     st.write("🔍 Analyzed global happiness scores using Power BI and Excel.")
     st.write("[🔗 View Project](https://github.com/yourprofile/project-link)")
