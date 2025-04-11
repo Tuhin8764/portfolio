@@ -7,12 +7,11 @@ def main():
 
     # Sidebar for profile photo and social media links
     with st.sidebar:
-        st.image("Tuhin Santra.JPG", width=200)
-        st.title("Your Name ✨")
+        st.title("Tuhin Santra✨")
         st.write("💡 Business Analytics & Data Science Enthusiast")
-        st.markdown("[🔗 LinkedIn](https://linkedin.com/in/yourprofile)")
+        st.markdown("[🔗 LinkedIn](www.linkedin.com/in/tuhin-santra-data-analysist)")
         st.markdown("[🐙 GitHub](https://github.com/yourprofile)")
-        st.markdown("[🐦 Twitter](https://twitter.com/yourprofile)")
+        
 
     # Animated welcome message
     st.write("## 👋 Welcome to My Portfolio!")
