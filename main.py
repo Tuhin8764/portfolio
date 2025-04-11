@@ -9,7 +9,7 @@ def main():
     with st.sidebar:
         st.title("Tuhin Santra✨")
         st.write("💡 Business Analytics & Data Science Enthusiast")
-        st.markdown("[🔗 LinkedIn](www.linkedin.com/in/tuhin-santra-data-analysist)")
+        st.markdown("[🔗 LinkedIn](www.linkedin.com/in/tuhin-santra-data-analysist")
         st.markdown("[🐙 GitHub](https://github.com/yourprofile)")
         
 
